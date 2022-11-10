@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 ##Example
 
 ##Deployment
+
+###Copyright
+2022 Git training
